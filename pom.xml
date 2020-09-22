@@ -79,8 +79,8 @@
 							<generatorName>spring</generatorName>
 							<configOptions>
 								<sourceFolder>src/gen/java/main</sourceFolder>
-								<apiPackage>${project.groupId}.spec.api</apiPackage>
-								<modelPackage>${project.groupId}.spec.model</modelPackage>
+								<apiPackage>${project.groupId}.api.spec</apiPackage>
+								<modelPackage>${project.groupId}.api.spec.model</modelPackage>
 
 								<interfaceOnly>true</interfaceOnly>
 								<reactive>true</reactive>
