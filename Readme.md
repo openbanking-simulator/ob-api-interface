@@ -1,4 +1,4 @@
-# Open Banking Interface
+# Open Banking Simulator API Interface
 
 This project is based on ACCC Data61 Open Banking Specification __v.1.5.0__
 
