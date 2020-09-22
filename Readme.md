@@ -2,7 +2,7 @@
 
 This project is based on ACCC Data61 Open Banking Specification __v.1.5.0__
 
-API Interfaces are generated using __Open API Tools__ maven plugin for the specification published @ https://consumerdatastandardsaustralia.github.io/ is used to
+API Interfaces are generated using __Open API Tools__ maven plugin for the specification published @ https://consumerdatastandardsaustralia.github.io
 
 Minor changes are done to swagger to support breaking the spec to multiple interfaces
 
